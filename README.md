@@ -22,4 +22,6 @@ Clique nas imagens para ir direto ao diretório do projeto em questão.
 
 [![Alt text](/Exercicios/ValidadorCPFWebpack/cpf.png "Gerador de CPF")](https://github.com/devbiel/JavaScript/tree/main/Exercicios/ValidadorCPFWebpack)
 
+[![Alt text](/Exercicios/GeradorDeSenhas/gerador.png "Gerador de Senhas")](https://github.com/devbiel/JavaScript/tree/main/Exercicios/GeradorDeSenhas)
+
 É uma lista que salva as informações no Local Storage do navegador. Então caso feche o navegador e for abrir novamente, a lista vai estar la.
