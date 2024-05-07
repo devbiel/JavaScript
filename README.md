@@ -20,4 +20,6 @@ Clique nas imagens para ir direto ao diretório do projeto em questão.
 ****
 [![Alt text](/Exercicios/Exercicio_ListaTarefa/lista.png "Lista de tarafas")](https://github.com/devbiel/JavaScript/tree/main/Exercicios/Exercicio_ListaTarefa)
 
+[![Alt text](/Exercicios/ValidadorCPFWebpack/cpf.png "Gerador de CPF")](https://github.com/devbiel/JavaScript/tree/main/Exercicios/ValidadorCPFWebpack)
+
 É uma lista que salva as informações no Local Storage do navegador. Então caso feche o navegador e for abrir novamente, a lista vai estar la.
